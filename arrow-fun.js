@@ -7,6 +7,9 @@
 // we can also compress it 
 let add = (a,b)=> a*b;
 console.log(add(2,5));
+console.log(add(2,5));
+console.log(add(2,5));
+console.log(add(2,5));
 
 //limitation of arrow function
 // syntex
